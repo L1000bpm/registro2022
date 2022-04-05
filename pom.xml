@@ -14,7 +14,7 @@
 	<name>ServicioRest02 - Remoto</name>
 	<description>Proyecto Servicio Rest</description>
 	<properties>
-		<java.version>11</java.version>
+		
 	</properties>
 	<dependencies>
 		<dependency>
